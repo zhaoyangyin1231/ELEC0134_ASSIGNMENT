@@ -10,7 +10,15 @@ The assignment is to solve MRI image classification tasks. For both task A and t
 -	matplotlib == 3.4.3
 -	OpenCV == 3.4.2
 -	Keras == 2.3.1
-## Code
+## Datasets
+-	training data: 3000 512x512 pixel gray-scale MRI images organized in 4 classes. 
+-	training data path: ./assignment_dataset/image
+-	training label path: ./assignment_dataset/label.csv
+-	testing data: 200 512x512 pixel gray-scale MRI images organized in 4 classes.
+-	testing data path: ./test/image
+-	testing label path: ./test/label.csv
+
+## Code organization
 The code is separated into two jupyter files, taska.ipynb for task A and taskb.ipynb for task B. Both files include the functions need for data pre-processing and model training. To execute the code, click Run button to run the whole program or click run icon of each line to run the single code block.
 ## Results
 |       | Model | Training Accuracy | Validation Accuracy | Testing  Accuracy |
