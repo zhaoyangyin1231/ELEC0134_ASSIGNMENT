@@ -13,3 +13,9 @@ The assignment is to solve MRI image classification tasks. For both task A and t
 ## Code
 The code is separated into two jupyter files, taska.ipynb for task A and taskb.ipynb for task B. Both files include the functions need for data pre-processing and model training. To execute the code, click Run button to run the whole program or click run icon of each line to run the single code block.
 ## Results
+|       | Model | Training Accuracy | Validation Accuracy | Testing  Accuracy |
+| :----: | :----: | :----: | :----: | :----: |
+| TaskA | SVM | 100% | 94.4% | 91.5% |
+| TaskA | KNN | 100% | 95.0% | 92.4% |
+| TaskA | SVM | 97.5% | 83.4% | 80.5% |
+| TaskB | KNN | 93.4% | 78.6% | 77.0% |
