@@ -17,5 +17,5 @@ The code is separated into two jupyter files, taska.ipynb for task A and taskb.i
 | :----: | :----: | :----: | :----: | :----: |
 | TaskA | SVM | 100% | 94.4% | 91.5% |
 | TaskA | KNN | 100% | 95.0% | 92.4% |
-| TaskA | SVM | 97.5% | 83.4% | 80.5% |
+| TaskB | SVM | 97.5% | 83.4% | 80.5% |
 | TaskB | KNN | 93.4% | 78.6% | 77.0% |
